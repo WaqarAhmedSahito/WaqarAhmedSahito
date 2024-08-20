@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Waqar Ahmed Sahito
 - 👀 I’m interested in exploring and learning coding
 - 🌱 I’m currently learning typescript,css
-- 💞️ I’m looking to collaborate on HTML,python
+- 💞️ I’m looking to collaborate on HTML,CSS,Python,Typescript.
 - 📫 How to reach me by wa005423@gmail.com
 - ⚡ Fun fact: always listen and give credits
 
