@@ -21,15 +21,15 @@ I specialize in creating clean, user-centric interfaces and robust backend syste
 
 ## 🌱 What I'm Up To
 *   Currently working on final-year academic projects and refining my system design skills.
-*   Open to collaborating on full-stack web applications and AI-driven tools[cite: 11].
+*   Open to collaborating on full-stack web applications and AI-driven tools.
 *   Actively seeking entry-level Software Engineering and Web Development roles. 
 
 ## 📫 Let's Connect!
 
 I am always open to discussing tech, collaborations, or new career opportunities. 
 
-*   **Email:** [wa005423@gmail.com](mailto:wa005423@gmail.com)[cite: 11]
-*   **LinkedIn:** [linkedin.com/in/waqarahmed1357](https://www.linkedin.com/in/waqarahmed1357/)[cite: 11]
+*   **Email:** [wa005423@gmail.com](mailto:wa005423@gmail.com)
+*   **LinkedIn:** [linkedin.com/in/waqarahmed1357](https://www.linkedin.com/in/waqarahmed1357/)
 
 ---
-*"Always listen and give credits."* ⚡[cite: 11]
+*"Always listen and give credits."* ⚡
