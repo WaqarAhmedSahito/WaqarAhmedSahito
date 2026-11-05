@@ -2,14 +2,14 @@
 
 **Software Developer | Final Year IT Undergraduate | Full-Stack & AI Enthusiast**
 
-Welcome to my GitHub! I am a final-year Information Technology student passionate about building scalable web applications and exploring modern technologies. Over the past three years, I have transitioned from exploring coding basics[cite: 11] to architecting full-stack e-commerce platforms, developing secure desktop applications, and diving into physical AI.
+Welcome to my GitHub! I am a final-year Information Technology student passionate about building scalable web applications and exploring modern technologies. Over the past three years, I have transitioned from exploring coding basics to architecting full-stack e-commerce platforms, developing secure desktop applications, and diving into physical AI.
 
 I specialize in creating clean, user-centric interfaces and robust backend systems.
 
 ## 🛠️ Tech Stack & Tools
 
-**Languages:** Python, TypeScript, JavaScript, C#, C++, HTML, CSS[cite: 11]
-**Frameworks & Libraries:** React, Next.js, TailwindCSS[cite: 11]
+**Languages:** Python, TypeScript, JavaScript, C#, C++, HTML, CSS
+**Frameworks & Libraries:** React, Next.js, TailwindCSS
 **Tools & Platforms:** Git, GitHub, Sanity CMS, Vercel
 
 ## 🚀 Featured Projects
